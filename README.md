@@ -1,5 +1,8 @@
 # dhall
 
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/sambeckingham/dhall?color=%2392DBE9)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSamboBeckingham)
+
 Scoop bucket for [Dhall](https://github.com/dhall-lang/dhall-haskell) binaries.
 
 To add the bucket to your Scoop configuration, run the following command in your terminal:
