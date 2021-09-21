@@ -2,6 +2,12 @@
 
 Scoop bucket for [Dhall](https://github.com/dhall-lang/dhall-haskell) binaries.
 
+To add the bucket to your Scoop configuration, run the following command in your terminal:
+
+```bash
+scoop bucket add dhall https://github.com/sambeckingham/dhall
+```
+
 ## Included Binaries
 
 | Binary | Description | Shims |
