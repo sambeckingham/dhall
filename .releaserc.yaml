@@ -1,4 +1,4 @@
-branch: master
+branch: main 
 preset: "angular"
 tagFormat: "${version}"
 plugins:
@@ -47,7 +47,7 @@ generateNotes:
 prepare:
   - path: "@semantic-release/git"
   - path: "@semantic-release/changelog"
-    changelogFile: "docs/CHANGELOG.md"
+    changelogFile: "CHANGELOG.md"
 publish:
   - path: "@semantic-release/github"
 
